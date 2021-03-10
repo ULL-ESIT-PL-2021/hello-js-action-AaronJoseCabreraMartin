@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-AaronJoseCabreraMartin",
+  "version": "1.0.0",
+  "description": "## **Author:** _Aarón José Cabrera Martín_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-AaronJoseCabreraMartin.git"
+  },
+  "keywords": [],
+  "author": "AaronJoseCabreraMartin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-AaronJoseCabreraMartin/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-AaronJoseCabreraMartin#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
