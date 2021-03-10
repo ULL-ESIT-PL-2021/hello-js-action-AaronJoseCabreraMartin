@@ -22,3 +22,9 @@ uses: actions/hello-js-action-AaronJoseCabreraMartin@v1
 with:
   who-to-greet: 'Aaron'
 ```
+
+### More info
+
+The developing process is detailed on [this](https://github.com/ULL-ESIT-PL-2021/hello-js-action-super-AaronJoseCabreraMartin) github repository.
+
+The testing process is detailed on [this](https://github.com/ULL-ESIT-PL-2021/hello-js-action-use-AaronJoseCabreraMartin) github repository.
